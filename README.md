@@ -10,4 +10,4 @@ https://github.com/univrsal/input-overlay
 
 [univrsal](https://github.com/univrsal) for a very cool plugin and website to make presets.
 
-Paint.NET for being good enough for letting me do this scuffed preset
+[Paint.NET](https://www.getpaint.net/index.html) for the small amount of edits i had to do to an image
